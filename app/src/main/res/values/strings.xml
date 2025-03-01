@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Madventure</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="my_quests">My quests</string>
+    <string name="details">Details</string>
+    <string name="channel_1">Канал 1</string>
+    <string name="channel_2">Канал 2</string>
+    <string name="channel_3">Канал 3</string>
+    <string name="film_name">Название фильма</string>
+    <string name="input_name_film">Введите название фильма</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

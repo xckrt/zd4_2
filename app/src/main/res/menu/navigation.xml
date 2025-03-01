@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_chanel1"
+        android:title="@string/channel_1" />
+    <item
+        android:id="@+id/navigation_chanel2"
+        android:title="@string/channel_2" />
+    <item
+        android:id="@+id/navigation_chanel3"
+        android:title="@string/channel_3" />
+</menu>
